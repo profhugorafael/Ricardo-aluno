@@ -40,7 +40,7 @@ Variáveis são caixinhas na memória do computador, quando queremos usar um det
 |:-:|:-:|:-:|
 |Inteiro|Guarda positivos e negativos|`int`|
 |Real|Números com vírgula|`float`|
-|Real|Números com vírgul, maior precisão|`double`|
+|Real|Números com vírgula, maior precisão|`double`|
 |Caracter|Guarda uma letra ou símbolo|`char`|
 |Frase|Guarda um conjunto caracteres|`String`|
 |Booleana|Guarda `true` ou `false`|`boolean`|
