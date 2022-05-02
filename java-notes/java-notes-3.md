@@ -54,3 +54,23 @@ if( /*condição*/ ) {
   // se for false(falso)
 }
 ```
+
+# Estrutura `if - else if - else`
+
+Verifica a primeira vez pelo `if`, depois se não for suficiente, ele continua fazendo verificações sucessivas a cada `else if`, contendo condições, e por último, se nenhum dos testes tiver sido verdade, ele chegará e rodará o bloco de código do `else`.
+
+```java
+if ( nota >= 7.0 ) {
+  sysout("passou");
+} else {
+
+  sysout("nao passou direto");
+
+  if(nota >= 4){
+    sysout("recuperacao");
+  } else {
+    sysout("reprovado");
+  }
+
+}
+```
