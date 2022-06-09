@@ -69,3 +69,16 @@ Verifica a primeira vez pelo `if`, depois se não for suficiente, ele continua f
   }
 ```
 
+jeito ruim sem `else if`:
+
+```java
+if(nota >= 7.0){
+   System.out.println("Aprovado!");
+} else {
+  if(nota >= 4.0){
+     System.out.println("Recuperação!");
+  } else {
+     System.out.println("Reprovado!");
+  }
+}
+```
