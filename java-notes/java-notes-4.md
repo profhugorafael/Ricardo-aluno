@@ -101,7 +101,7 @@ O `continue` pula o resto de código no loop atual e continua no próximo.
       continue;
     }
 
-    System.out.println(cont);
+    System.out.print(cont + " ");
   }
 ```
 

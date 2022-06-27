@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\hugor\Desktop\Aulas\alunos\Java\Ricardo fantom\Ricardo-aluno\.metadata\.plugins\org.eclipse.jdt.core
-794945367.index
-2496959616.index
-1865797976.index
